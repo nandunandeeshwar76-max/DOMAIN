@@ -1,5 +1,4 @@
 FEATURES: 
-
 This project utilizes particles to render volume-based cursed techniques:
 
 Secret Technique: Hollow Purple
